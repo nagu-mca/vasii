@@ -1,2 +1,5 @@
 welcome
 home
+hen
+cow
+save
